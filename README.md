@@ -1,6 +1,6 @@
 # Randomizer
 
-an application that helps the instructor  who is working online during the lecture to choose a random student for asking and participate and that help to make the student focus more in the lecture,
+an application that helps the instructor who is working online during the lecture to choose a random student for asking and participate and that helps to make the student focus more on the lecture.
 
 ## The Features
 
