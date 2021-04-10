@@ -18,4 +18,5 @@ an application that helps the instructor  who is working online during the lectu
 2. go to the dist folder,  then open the randomizer file.
 
 3. when you create a list, a new txt file will be created that contain your data, and the app will read from this file, so you can update the list manualy there.
+
 **p.s:** when you do a reset, this file will be deleted
