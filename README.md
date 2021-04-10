@@ -6,7 +6,7 @@ an application that helps the instructor  who is working online during the lectu
 
 * create a list of students in two ways:
     + adding students one by one,
-    + put a txt file named "students_list" that contains all students name in the same location of the randomizer file
+    + put a txt file named "students_list" that contains all students name in the same location of the randomizer file ,the student names should be separated  by a new line 
 
 * ability to update the existing list
 * make a reset and create a new list
@@ -19,4 +19,4 @@ an application that helps the instructor  who is working online during the lectu
 
 3. when you create a list, a new txt file will be created that contain your data, and the app will read from this file, so you can update the list manualy there.
 
-**p.s:** when you do a reset, this file will be deleted
+**p.s:** when you do a reset, this txt file will be deleted
