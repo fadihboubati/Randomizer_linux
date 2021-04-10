@@ -11,7 +11,7 @@ an application that helps the instructor  who is working online during the lectu
 * ability to update the list (delete or edit name) from the txt file.
 * making a reset and creating a new list.
 
-### the Instructions
+## The Instructions
 
 1. python language is needed.
 
