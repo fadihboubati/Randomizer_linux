@@ -7,8 +7,8 @@ an application that helps the instructor  who is working online during the lectu
 * create a list of students in two ways:
     + adding students one by one by the GUI.
     + putting a txt file named "students_list" that contains all students' names in the same location of the randomizer file, the students' names should be separated by a new line.
-
 * ability to update the existing list by appending new names to it.
+* ability to update the list (delete or edit name) from the txt file
 * making a reset and create a new list.
 
 ### instruction
