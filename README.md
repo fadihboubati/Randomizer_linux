@@ -5,18 +5,18 @@ an application that helps the instructor  who is working online during the lectu
 ## feather
 
 * create a list of students in two ways:
-    + adding students one by one,
-    + put a txt file named "students_list" that contains all students name in the same location of the randomizer file ,the student names should be separated  by a new line 
+    + adding students one by one.
+    + put a txt file named "students_list" that contains all students name in the same location of the randomizer file ,the students names should be separated by a new line.
 
-* ability to update the existing list
-* make a reset and create a new list
+* ability to update the existing list by appending new names to it.
+* making a reset and create a new list.
 
 ### instruction
 
 1. python language is needed.
 
-2. go to the dist folder,  then open the randomizer file.
+2. go to the dist folder, then open the randomizer file (it's an executable file)
 
-3. when you create a list, a new txt file will be created that contain your data, and the app will read from this file, so you can update the list manualy there.
+3. when you create a list, a new txt file will be created that contains your data, and the app will read the data from this file, (in this case you can update the list manually there if you like).
 
 **p.s:** when you do a reset, this txt file will be deleted
