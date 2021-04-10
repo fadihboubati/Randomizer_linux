@@ -2,7 +2,7 @@
 
 an application that helps the instructor  who is working online during the lecture to choose a random student for asking and participate and that help to make the student focus more in the lecture,
 
-## feather
+## The Features
 
 * create a list of students in two ways:
     + adding students one by one by the GUI.
@@ -11,7 +11,7 @@ an application that helps the instructor  who is working online during the lectu
 * ability to update the list (delete or edit name) from the txt file.
 * making a reset and creating a new list.
 
-### instruction
+### the Instructions
 
 1. python language is needed.
 
