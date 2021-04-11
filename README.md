@@ -13,7 +13,7 @@ an application that helps the instructor who is working online during the lectur
 
 1. python language is needed.
 
-3. clone it
+3. clone the repo.
 
 3. go to the dist folder, then open the randomizer file (it's an executable file)
 
